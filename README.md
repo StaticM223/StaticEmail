@@ -1,0 +1,2 @@
+# StaticEmail
+Static Email Spammer
